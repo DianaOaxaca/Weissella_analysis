@@ -1,0 +1,560 @@
+Aug 23 15:29:59
+Will run velvet optimiser with the following paramters:
+	Velveth parameter string:
+		-fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+	Velveth start hash values:	21
+	Velveth end hash value:		75
+	Velveth hash step value:	10
+	Velvetg minimum coverage cutoff to use:	0
+
+	Read tracking for final assembly off.
+Aug 23 15:29:59
+
+	Beginning velveth runs.
+********************************************************
+Assembly id: 7
+Velveth timestamp: Aug 23 2017 15:32:04
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_75 75 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_75
+Velvet hash value: 75
+Roadmap file size: 307037598
+**********************************************************
+********************************************************
+Assembly id: 6
+Velveth timestamp: Aug 23 2017 15:32:29
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_71 71 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_71
+Velvet hash value: 71
+Roadmap file size: 598812844
+**********************************************************
+********************************************************
+Assembly id: 5
+Velveth timestamp: Aug 23 2017 15:33:03
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+**********************************************************
+********************************************************
+Assembly id: 4
+Velveth timestamp: Aug 23 2017 15:33:34
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_51 51 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_51
+Velvet hash value: 51
+Roadmap file size: 814246516
+**********************************************************
+********************************************************
+Assembly id: 1
+Velveth timestamp: Aug 23 2017 15:33:42
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_21 21 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_21
+Velvet hash value: 21
+Roadmap file size: 1069233346
+**********************************************************
+********************************************************
+Assembly id: 3
+Velveth timestamp: Aug 23 2017 15:33:46
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_41 41 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_41
+Velvet hash value: 41
+Roadmap file size: 886932720
+**********************************************************
+********************************************************
+Assembly id: 2
+Velveth timestamp: Aug 23 2017 15:33:47
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_31 31 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_31
+Velvet hash value: 31
+Roadmap file size: 954934881
+**********************************************************
+Aug 23 15:33:48
+
+	Beginning vanilla velvetg runs.
+********************************************************
+Assembly id: 7
+Velveth timestamp: Aug 23 2017 15:32:04
+Velvetg timestamp: Aug 23 2017 15:35:52
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_75 75 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_75  -clean yes
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_75
+Velvet hash value: 75
+Roadmap file size: 307037598
+Total number of contigs: 0
+n50: 0
+length of longest contig: 0
+Total bases in contigs: 0
+Number of contigs > 1k: 0
+Total bases in contigs > 1k: 0
+**********************************************************
+********************************************************
+Assembly id: 6
+Assembly score: 14254
+Velveth timestamp: Aug 23 2017 15:32:29
+Velvetg timestamp: Aug 23 2017 15:36:36
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_71 71 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_71  -clean yes
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_71
+Velvet hash value: 71
+Roadmap file size: 598812844
+Total number of contigs: 432
+n50: 14254
+length of longest contig: 57886
+Total bases in contigs: 2248484
+Number of contigs > 1k: 252
+Total bases in contigs > 1k: 2188178
+**********************************************************
+********************************************************
+Assembly id: 5
+Assembly score: 72696
+Velveth timestamp: Aug 23 2017 15:33:03
+Velvetg timestamp: Aug 23 2017 15:36:51
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+Total number of contigs: 282
+n50: 72696
+length of longest contig: 163142
+Total bases in contigs: 2234630
+Number of contigs > 1k: 87
+Total bases in contigs > 1k: 2190462
+**********************************************************
+********************************************************
+Assembly id: 4
+Assembly score: 31988
+Velveth timestamp: Aug 23 2017 15:33:34
+Velvetg timestamp: Aug 23 2017 15:37:06
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_51 51 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_51  -clean yes
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_51
+Velvet hash value: 51
+Roadmap file size: 814246516
+Total number of contigs: 652
+n50: 31988
+length of longest contig: 115693
+Total bases in contigs: 2248921
+Number of contigs > 1k: 151
+Total bases in contigs > 1k: 2161583
+**********************************************************
+********************************************************
+Assembly id: 3
+Assembly score: 2351
+Velveth timestamp: Aug 23 2017 15:33:46
+Velvetg timestamp: Aug 23 2017 15:37:46
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_41 41 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_41  -clean yes
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_41
+Velvet hash value: 41
+Roadmap file size: 886932720
+Total number of contigs: 3687
+n50: 2351
+length of longest contig: 11877
+Total bases in contigs: 2373593
+Number of contigs > 1k: 679
+Total bases in contigs > 1k: 1804866
+**********************************************************
+********************************************************
+Assembly id: 2
+Assembly score: 110
+Velveth timestamp: Aug 23 2017 15:33:47
+Velvetg timestamp: Aug 23 2017 15:39:48
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_31 31 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_31  -clean yes
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_31
+Velvet hash value: 31
+Roadmap file size: 954934881
+Total number of contigs: 30689
+n50: 110
+length of longest contig: 1529
+Total bases in contigs: 3262405
+Number of contigs > 1k: 16
+Total bases in contigs > 1k: 18442
+**********************************************************
+********************************************************
+Assembly id: 1
+Assembly score: 56
+Velveth timestamp: Aug 23 2017 15:33:42
+Velvetg timestamp: Aug 23 2017 15:43:09
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_21 21 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_21  -clean yes
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_21
+Velvet hash value: 21
+Roadmap file size: 1069233346
+Total number of contigs: 136432
+n50: 56
+length of longest contig: 306
+Total bases in contigs: 7307894
+Number of contigs > 1k: 0
+Total bases in contigs > 1k: 0
+**********************************************************
+Aug 23 15:43:18 Best assembly by assembly score - assembly id: 5
+Aug 23 15:43:18 Optimisation routine chosen for best assembly: shortPaired
+Aug 23 15:43:18 Looking for the expected coverage
+Aug 23 15:43:19		Expected coverage set to 63
+********************************************************
+Assembly id: 5
+Assembly score: 72696
+Velveth timestamp: Aug 23 2017 15:33:03
+Velvetg timestamp: Aug 23 2017 15:36:51
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes -exp_cov 63
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+Total number of contigs: 282
+n50: 72696
+length of longest contig: 163142
+Total bases in contigs: 2234630
+Number of contigs > 1k: 87
+Total bases in contigs > 1k: 2190462
+Paired Library insert stats:
+**********************************************************
+Aug 23 15:43:19 Setting the short insert length
+Aug 23 15:43:19 Setting assembly short insert length(s) to auto
+Aug 23 15:43:19 Beginning coverage cutoff optimisation
+Aug 23 15:43:20		Setting cov_cutoff to 31.147.
+********************************************************
+Assembly id: 5
+Assembly score: 2213876
+Velveth timestamp: Aug 23 2017 15:33:03
+Velvetg timestamp: Aug 23 2017 15:44:31
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes -exp_cov 63 -cov_cutoff 31.1472
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+Total number of contigs: 129
+n50: 114497
+length of longest contig: 182909
+Total bases in contigs: 2232637
+Number of contigs > 1k: 49
+Total bases in contigs > 1k: 2213876
+Paired Library insert stats:
+Paired-end library 1 has length: 445, sample standard deviation: 86
+Paired-end library 1 has length: 445, sample standard deviation: 86
+**********************************************************
+Aug 23 15:44:31		Setting cov_cutoff to 19.253.
+********************************************************
+Assembly id: 5
+Assembly score: 2214173
+Velveth timestamp: Aug 23 2017 15:33:03
+Velvetg timestamp: Aug 23 2017 15:45:19
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes -exp_cov 63 -cov_cutoff 19.2528
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+Total number of contigs: 131
+n50: 114497
+length of longest contig: 182909
+Total bases in contigs: 2233245
+Number of contigs > 1k: 49
+Total bases in contigs > 1k: 2214173
+Paired Library insert stats:
+Paired-end library 1 has length: 445, sample standard deviation: 86
+Paired-end library 1 has length: 445, sample standard deviation: 86
+**********************************************************
+		Looking for best cutoff score between 0.000 and 50.400
+		Max cutoff lies between 0.000 & 31.147
+Aug 23 15:45:19		Setting cov_cutoff to 11.898.
+********************************************************
+Assembly id: 5
+Assembly score: 2214010
+Velveth timestamp: Aug 23 2017 15:33:03
+Velvetg timestamp: Aug 23 2017 15:46:10
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes -exp_cov 63 -cov_cutoff 11.8982304
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+Total number of contigs: 132
+n50: 114497
+length of longest contig: 182909
+Total bases in contigs: 2233566
+Number of contigs > 1k: 50
+Total bases in contigs > 1k: 2214010
+Paired Library insert stats:
+Paired-end library 1 has length: 445, sample standard deviation: 86
+Paired-end library 1 has length: 445, sample standard deviation: 86
+**********************************************************
+		Max cutoff lies between 11.898 & 31.147
+Aug 23 15:46:10		Setting cov_cutoff to 23.794.
+********************************************************
+Assembly id: 5
+Assembly score: 2214202
+Velveth timestamp: Aug 23 2017 15:33:03
+Velvetg timestamp: Aug 23 2017 15:46:55
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes -exp_cov 63 -cov_cutoff 23.7940936128
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+Total number of contigs: 131
+n50: 114497
+length of longest contig: 182909
+Total bases in contigs: 2233274
+Number of contigs > 1k: 49
+Total bases in contigs > 1k: 2214202
+Paired Library insert stats:
+Paired-end library 1 has length: 445, sample standard deviation: 86
+Paired-end library 1 has length: 445, sample standard deviation: 86
+**********************************************************
+		Max cutoff lies between 19.253 & 31.147
+Aug 23 15:46:55		Setting cov_cutoff to 26.604.
+********************************************************
+Assembly id: 5
+Assembly score: 2214202
+Velveth timestamp: Aug 23 2017 15:33:03
+Velvetg timestamp: Aug 23 2017 15:47:40
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes -exp_cov 63 -cov_cutoff 26.6035392
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+Total number of contigs: 131
+n50: 114497
+length of longest contig: 182909
+Total bases in contigs: 2233302
+Number of contigs > 1k: 49
+Total bases in contigs > 1k: 2214202
+Paired Library insert stats:
+Paired-end library 1 has length: 445, sample standard deviation: 86
+Paired-end library 1 has length: 445, sample standard deviation: 86
+**********************************************************
+		Max cutoff lies between 19.253 & 26.604
+Aug 23 15:47:40		Setting cov_cutoff to 22.061.
+********************************************************
+Assembly id: 5
+Assembly score: 2214202
+Velveth timestamp: Aug 23 2017 15:33:03
+Velvetg timestamp: Aug 23 2017 15:48:14
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes -exp_cov 63 -cov_cutoff 22.0607823744
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+Total number of contigs: 131
+n50: 114497
+length of longest contig: 182909
+Total bases in contigs: 2233274
+Number of contigs > 1k: 49
+Total bases in contigs > 1k: 2214202
+Paired Library insert stats:
+Paired-end library 1 has length: 445, sample standard deviation: 86
+Paired-end library 1 has length: 445, sample standard deviation: 86
+**********************************************************
+		Max cutoff lies between 19.253 & 23.794
+Aug 23 15:48:14		Setting cov_cutoff to 20.988.
+********************************************************
+Assembly id: 5
+Assembly score: 2214183
+Velveth timestamp: Aug 23 2017 15:33:03
+Velvetg timestamp: Aug 23 2017 15:48:48
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes -exp_cov 63 -cov_cutoff 20.9875741600896
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+Total number of contigs: 131
+n50: 114497
+length of longest contig: 182909
+Total bases in contigs: 2233255
+Number of contigs > 1k: 49
+Total bases in contigs > 1k: 2214183
+Paired Library insert stats:
+Paired-end library 1 has length: 445, sample standard deviation: 86
+Paired-end library 1 has length: 445, sample standard deviation: 86
+**********************************************************
+		Max cutoff lies between 20.988 & 23.794
+Aug 23 15:48:48		Setting cov_cutoff to 22.722.
+********************************************************
+Assembly id: 5
+Assembly score: 2214202
+Velveth timestamp: Aug 23 2017 15:33:03
+Velvetg timestamp: Aug 23 2017 15:49:23
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes -exp_cov 63 -cov_cutoff 22.7220031818646
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+Total number of contigs: 131
+n50: 114497
+length of longest contig: 182909
+Total bases in contigs: 2233274
+Number of contigs > 1k: 49
+Total bases in contigs > 1k: 2214202
+Paired Library insert stats:
+Paired-end library 1 has length: 445, sample standard deviation: 86
+Paired-end library 1 has length: 445, sample standard deviation: 86
+**********************************************************
+		Max cutoff lies between 20.988 & 22.722
+Aug 23 15:49:23		Setting cov_cutoff to 21.650.
+********************************************************
+Assembly id: 5
+Assembly score: 2214202
+Velveth timestamp: Aug 23 2017 15:33:03
+Velvetg timestamp: Aug 23 2017 15:49:57
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes -exp_cov 63 -cov_cutoff 21.6501260464077
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+Total number of contigs: 131
+n50: 114497
+length of longest contig: 182909
+Total bases in contigs: 2233274
+Number of contigs > 1k: 49
+Total bases in contigs > 1k: 2214202
+Paired Library insert stats:
+Paired-end library 1 has length: 445, sample standard deviation: 86
+Paired-end library 1 has length: 445, sample standard deviation: 86
+**********************************************************
+		Max cutoff lies between 20.988 & 22.061
+Aug 23 15:49:57		Setting cov_cutoff to 21.398.
+********************************************************
+Assembly id: 5
+Assembly score: 2214202
+Velveth timestamp: Aug 23 2017 15:33:03
+Velvetg timestamp: Aug 23 2017 15:50:31
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes -exp_cov 63 -cov_cutoff 21.3975396979562
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+Total number of contigs: 131
+n50: 114497
+length of longest contig: 182909
+Total bases in contigs: 2233274
+Number of contigs > 1k: 49
+Total bases in contigs > 1k: 2214202
+Paired Library insert stats:
+Paired-end library 1 has length: 445, sample standard deviation: 86
+Paired-end library 1 has length: 445, sample standard deviation: 86
+**********************************************************
+		Max cutoff lies between 20.988 & 21.650
+Aug 23 15:50:31		Setting cov_cutoff to 21.241.
+********************************************************
+Assembly id: 5
+Assembly score: 2214202
+Velveth timestamp: Aug 23 2017 15:33:03
+Velvetg timestamp: Aug 23 2017 15:51:06
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes -exp_cov 63 -cov_cutoff 21.2406689806631
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+Total number of contigs: 131
+n50: 114497
+length of longest contig: 182909
+Total bases in contigs: 2233274
+Number of contigs > 1k: 49
+Total bases in contigs > 1k: 2214202
+Paired Library insert stats:
+Paired-end library 1 has length: 445, sample standard deviation: 86
+Paired-end library 1 has length: 445, sample standard deviation: 86
+**********************************************************
+		Optimum value of cutoff is 21.65
+		Took 10 iterations
+Aug 23 15:51:06
+
+
+Final optimised assembly details:
+********************************************************
+Assembly id: 5
+Assembly score: 2214202
+Velveth timestamp: Aug 23 2017 15:33:03
+Velvetg timestamp: Aug 23 2017 15:51:06
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired ../../TrimGalore/wp_R1_val_1.fq ../../TrimGalore/wp_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes -exp_cov 63 -cov_cutoff 21.2406689806631
+Assembly directory: /home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 743434233
+Total number of contigs: 131
+n50: 114497
+length of longest contig: 182909
+Total bases in contigs: 2233274
+Number of contigs > 1k: 49
+Total bases in contigs > 1k: 2214202
+Paired Library insert stats:
+Paired-end library 1 has length: 445, sample standard deviation: 86
+Paired-end library 1 has length: 445, sample standard deviation: 86
+**********************************************************
+
+
+Assembly output files are in the following directory:
+/home/hoaxaca/home/guest40/WEISSELLAS/Wp/VelvetOptimiser/v2/auto_data_61

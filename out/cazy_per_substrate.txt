@@ -1,0 +1,30 @@
+Name	Substrate	CAZy familia	Weissella cibaria	Weissella hallotolerans	Weissella hellenica	Weissella jogaejeotgali	Weissella Kandleri	Weissella koreensis	Weissella minor	Weissella oryzae	Weissella paramesenteroides	Weissellaviridescens	W_confusa_DSM20196	W_confusa_AB3E41	W_confusa_WcL17	W_confusa_WCP3a	W_confusa_MBF8	W_confusa_LBAE
+Maltodextrin/amylopullulanase/cicloma	Starch	CBM34	1	0	0	0	0	0	0	0	1	0	2	2	2	2	2	2
+Glycogen/starch branching	Starch	CBM48	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0
+Neopullulanase/cyclomaltodextrinase	Starch	GH13_20	1	0	0	0	0	0	0	0	1	0	2	2	2	2	2	2
+1,6-α-glucan glucosidase	Starch	GH13_31	1	3	3	3	0	0	2	0	2	1	1	1	1	1	1	1
+1,4-α-glucan branching enzymes	Starch	GH13_9	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0
+Amylase	Starch	GH126	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Galactanase/glucosyltransferase	Hemicellulose	CBM61	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	1
+feruloyl esterase	Hemicellulose	CE1	2	0	3	5	0	0	2	0	4	0	1	1	1	1	2	1
+acetyl xylan esterase	Hemicellulose	CE12	0	0	2	0	1	0	0	0	0	0	1	1	1	1	1	1
+acetyl xylan esterase	Hemicellulose	CE15	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+acetyl xylan esterase	Hemicellulose	CE3	3	0	1	2	0	1	1	2	3	0	0	0	0	0	0	0
+acetyl xylan esterase 	Hemicellulose	CE4	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0
+acetyl xylan esterase	Hemicellulose	CE6	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+acetyl xylooligosaccharide esteras	Hemicellulose	CE7	1	1	0	0	1	1	1	1	0	1	1	1	1	1	0	1
+ß-glucosidase	Hemicellulose	GH1	9	0	1	0	1	0	1	0	0	0	5	4	7	5	7	6
+ß-xylosidase	Hemicellulose	GH120	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1
+β-L-arabinofuranosidase	Hemicellulose	GH127	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0
+ß-glucosidase/xylosidase	Hemicellulose	GH3	0	0	0	0	0	0	0	0	0	0	1	2	1	1	1	1
+α-xylosidase	Hemicellulose	GH31	1	0	0	0	0	1	0	1	0	0	1	1	1	1	1	1
+xylosidase/arabinofuranosidase	Hemicellulose	GH43_11	1	0	0	1	0	0	0	1	0	0	2	2	2	2	2	2
+xylosidase/arabinofuranosidase	Hemicellulose	GH43_26	1	0	0	1	1	1	0	0	1	0	0	0	0	0	0	0
+Endoglucanase/endoxylanase	Hemicellulose	GH5_34	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+L-arabinofuranosidase	Hemicellulose	GH51	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+β-xylosidase	Hemicellulose	GH53	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+α-glucuronidase	Hemicellulose	GH67	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Xyloglucanase	Hemicellulose	GH74	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+Exooligoxylanase	Hemicellulose	GH8	1	1	0	0	0	0	0	0	0	0	2	1	2	2	2	2
+Inulinase/levanase/invertase	Sucrose	GH32	1	1	2	1	0	0	1	1	2	0	0	1	1	1	1	1
+Glucosyltransferase	Sucrose	GH70	1	0	0	0	0	0	0	0	0	0	1	1	1	2	4	1

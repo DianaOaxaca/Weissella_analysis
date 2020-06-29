@@ -1,0 +1,1230 @@
+Aug  1 15:54:37
+Will run velvet optimiser with the following paramters:
+	Velveth parameter string:
+		-fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+	Velveth start hash values:	11
+	Velveth end hash value:		71
+	Velveth hash step value:	2
+	Velvetg minimum coverage cutoff to use:	0
+
+	Read tracking for final assembly off.
+Aug  1 15:54:37
+
+	Beginning velveth runs.
+********************************************************
+Assembly id: 3
+Velveth timestamp: Aug  1 2017 16:11:32
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_15 15 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_15
+Velvet hash value: 15
+Roadmap file size: 1186951222
+**********************************************************
+********************************************************
+Assembly id: 2
+Velveth timestamp: Aug  1 2017 16:14:44
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_13 13 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_13
+Velvet hash value: 13
+Roadmap file size: 2730468662
+**********************************************************
+********************************************************
+Assembly id: 4
+Velveth timestamp: Aug  1 2017 16:14:49
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_17 17 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_17
+Velvet hash value: 17
+Roadmap file size: 958432430
+**********************************************************
+********************************************************
+Assembly id: 5
+Velveth timestamp: Aug  1 2017 16:18:31
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_19 19 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_19
+Velvet hash value: 19
+Roadmap file size: 909198717
+**********************************************************
+********************************************************
+Assembly id: 1
+Velveth timestamp: Aug  1 2017 16:20:21
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_11 11 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_11
+Velvet hash value: 11
+Roadmap file size: 7680396601
+**********************************************************
+********************************************************
+Assembly id: 6
+Velveth timestamp: Aug  1 2017 16:24:01
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_21 21 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_21
+Velvet hash value: 21
+Roadmap file size: 891969857
+**********************************************************
+********************************************************
+Assembly id: 8
+Velveth timestamp: Aug  1 2017 16:27:07
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_25 25 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_25
+Velvet hash value: 25
+Roadmap file size: 851683123
+**********************************************************
+********************************************************
+Assembly id: 7
+Velveth timestamp: Aug  1 2017 16:29:54
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_23 23 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_23
+Velvet hash value: 23
+Roadmap file size: 868344525
+**********************************************************
+********************************************************
+Assembly id: 11
+Velveth timestamp: Aug  1 2017 16:29:57
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_31 31 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_31
+Velvet hash value: 31
+Roadmap file size: 802841170
+**********************************************************
+********************************************************
+Assembly id: 10
+Velveth timestamp: Aug  1 2017 16:30:15
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_29 29 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_29
+Velvet hash value: 29
+Roadmap file size: 816213975
+**********************************************************
+********************************************************
+Assembly id: 29
+Velveth timestamp: Aug  1 2017 16:30:38
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_67 67 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_67
+Velvet hash value: 67
+Roadmap file size: 554771349
+**********************************************************
+********************************************************
+Assembly id: 30
+Velveth timestamp: Aug  1 2017 16:30:50
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_69 69 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_69
+Velvet hash value: 69
+Roadmap file size: 529982574
+**********************************************************
+********************************************************
+Assembly id: 31
+Velveth timestamp: Aug  1 2017 16:31:12
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_71 71 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_71
+Velvet hash value: 71
+Roadmap file size: 489815883
+**********************************************************
+********************************************************
+Assembly id: 9
+Velveth timestamp: Aug  1 2017 16:31:15
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_27 27 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_27
+Velvet hash value: 27
+Roadmap file size: 831985390
+**********************************************************
+********************************************************
+Assembly id: 27
+Velveth timestamp: Aug  1 2017 16:31:41
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_63 63 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_63
+Velvet hash value: 63
+Roadmap file size: 598751483
+**********************************************************
+********************************************************
+Assembly id: 14
+Velveth timestamp: Aug  1 2017 16:31:44
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_37 37 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_37
+Velvet hash value: 37
+Roadmap file size: 757466980
+**********************************************************
+********************************************************
+Assembly id: 23
+Velveth timestamp: Aug  1 2017 16:32:13
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_55 55 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_55
+Velvet hash value: 55
+Roadmap file size: 651134786
+**********************************************************
+********************************************************
+Assembly id: 24
+Velveth timestamp: Aug  1 2017 16:32:14
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_57 57 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_57
+Velvet hash value: 57
+Roadmap file size: 638873223
+**********************************************************
+********************************************************
+Assembly id: 20
+Velveth timestamp: Aug  1 2017 16:32:14
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_49 49 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_49
+Velvet hash value: 49
+Roadmap file size: 686089313
+**********************************************************
+********************************************************
+Assembly id: 26
+Velveth timestamp: Aug  1 2017 16:32:15
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 612918190
+**********************************************************
+********************************************************
+Assembly id: 13
+Velveth timestamp: Aug  1 2017 16:32:15
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_35 35 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_35
+Velvet hash value: 35
+Roadmap file size: 772200339
+**********************************************************
+********************************************************
+Assembly id: 22
+Velveth timestamp: Aug  1 2017 16:32:16
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_53 53 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_53
+Velvet hash value: 53
+Roadmap file size: 664665235
+**********************************************************
+********************************************************
+Assembly id: 18
+Velveth timestamp: Aug  1 2017 16:32:16
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_45 45 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_45
+Velvet hash value: 45
+Roadmap file size: 709939126
+**********************************************************
+********************************************************
+Assembly id: 15
+Velveth timestamp: Aug  1 2017 16:32:16
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_39 39 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_39
+Velvet hash value: 39
+Roadmap file size: 747562588
+**********************************************************
+********************************************************
+Assembly id: 17
+Velveth timestamp: Aug  1 2017 16:32:16
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_43 43 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_43
+Velvet hash value: 43
+Roadmap file size: 721844522
+**********************************************************
+********************************************************
+Assembly id: 25
+Velveth timestamp: Aug  1 2017 16:32:16
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_59 59 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_59
+Velvet hash value: 59
+Roadmap file size: 627114598
+**********************************************************
+********************************************************
+Assembly id: 28
+Velveth timestamp: Aug  1 2017 16:32:16
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_65 65 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_65
+Velvet hash value: 65
+Roadmap file size: 579088872
+**********************************************************
+********************************************************
+Assembly id: 12
+Velveth timestamp: Aug  1 2017 16:32:16
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_33 33 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_33
+Velvet hash value: 33
+Roadmap file size: 786109345
+**********************************************************
+********************************************************
+Assembly id: 16
+Velveth timestamp: Aug  1 2017 16:32:17
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_41 41 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_41
+Velvet hash value: 41
+Roadmap file size: 734453970
+**********************************************************
+********************************************************
+Assembly id: 19
+Velveth timestamp: Aug  1 2017 16:32:17
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_47 47 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_47
+Velvet hash value: 47
+Roadmap file size: 700249947
+**********************************************************
+********************************************************
+Assembly id: 21
+Velveth timestamp: Aug  1 2017 16:32:17
+Velveth version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_51 51 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_51
+Velvet hash value: 51
+Roadmap file size: 675016707
+**********************************************************
+Aug  1 16:32:17
+
+	Beginning vanilla velvetg runs.
+********************************************************
+Assembly id: 25
+Assembly score: 53118
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 16:37:56
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_59 59 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_59  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_59
+Velvet hash value: 59
+Roadmap file size: 627114598
+Total number of contigs: 314
+n50: 53118
+length of longest contig: 208772
+Total bases in contigs: 2321497
+Number of contigs > 1k: 85
+Total bases in contigs > 1k: 2266440
+**********************************************************
+********************************************************
+Assembly id: 31
+Assembly score: 7973
+Velveth timestamp: Aug  1 2017 16:31:12
+Velvetg timestamp: Aug  1 2017 16:38:09
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_71 71 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_71  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_71
+Velvet hash value: 71
+Roadmap file size: 489815883
+Total number of contigs: 654
+n50: 7973
+length of longest contig: 46364
+Total bases in contigs: 2343588
+Number of contigs > 1k: 405
+Total bases in contigs > 1k: 2240128
+**********************************************************
+********************************************************
+Assembly id: 30
+Assembly score: 57870
+Velveth timestamp: Aug  1 2017 16:30:50
+Velvetg timestamp: Aug  1 2017 16:38:15
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_69 69 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_69  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_69
+Velvet hash value: 69
+Roadmap file size: 529982574
+Total number of contigs: 216
+n50: 57870
+length of longest contig: 190340
+Total bases in contigs: 2320048
+Number of contigs > 1k: 80
+Total bases in contigs > 1k: 2281604
+**********************************************************
+********************************************************
+Assembly id: 27
+Assembly score: 63813
+Velveth timestamp: Aug  1 2017 16:31:41
+Velvetg timestamp: Aug  1 2017 16:38:23
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_63 63 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_63  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_63
+Velvet hash value: 63
+Roadmap file size: 598751483
+Total number of contigs: 248
+n50: 63813
+length of longest contig: 208780
+Total bases in contigs: 2319475
+Number of contigs > 1k: 75
+Total bases in contigs > 1k: 2274718
+**********************************************************
+********************************************************
+Assembly id: 24
+Assembly score: 48201
+Velveth timestamp: Aug  1 2017 16:32:14
+Velvetg timestamp: Aug  1 2017 16:38:34
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_57 57 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_57  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_57
+Velvet hash value: 57
+Roadmap file size: 638873223
+Total number of contigs: 353
+n50: 48201
+length of longest contig: 207593
+Total bases in contigs: 2322464
+Number of contigs > 1k: 97
+Total bases in contigs > 1k: 2263130
+**********************************************************
+********************************************************
+Assembly id: 29
+Assembly score: 58144
+Velveth timestamp: Aug  1 2017 16:30:38
+Velvetg timestamp: Aug  1 2017 16:38:47
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_67 67 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_67  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_67
+Velvet hash value: 67
+Roadmap file size: 554771349
+Total number of contigs: 210
+n50: 58144
+length of longest contig: 208788
+Total bases in contigs: 2318800
+Number of contigs > 1k: 72
+Total bases in contigs > 1k: 2279841
+**********************************************************
+********************************************************
+Assembly id: 28
+Assembly score: 63818
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 16:38:57
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_65 65 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_65  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_65
+Velvet hash value: 65
+Roadmap file size: 579088872
+Total number of contigs: 222
+n50: 63818
+length of longest contig: 208784
+Total bases in contigs: 2318537
+Number of contigs > 1k: 75
+Total bases in contigs > 1k: 2278570
+**********************************************************
+********************************************************
+Assembly id: 26
+Assembly score: 53874
+Velveth timestamp: Aug  1 2017 16:32:15
+Velvetg timestamp: Aug  1 2017 16:39:01
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_61 61 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_61  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_61
+Velvet hash value: 61
+Roadmap file size: 612918190
+Total number of contigs: 272
+n50: 53874
+length of longest contig: 208776
+Total bases in contigs: 2319733
+Number of contigs > 1k: 80
+Total bases in contigs > 1k: 2272210
+**********************************************************
+********************************************************
+Assembly id: 21
+Assembly score: 36624
+Velveth timestamp: Aug  1 2017 16:32:17
+Velvetg timestamp: Aug  1 2017 16:39:03
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_51 51 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_51  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_51
+Velvet hash value: 51
+Roadmap file size: 675016707
+Total number of contigs: 492
+n50: 36624
+length of longest contig: 172135
+Total bases in contigs: 2324776
+Number of contigs > 1k: 121
+Total bases in contigs > 1k: 2257080
+**********************************************************
+********************************************************
+Assembly id: 22
+Assembly score: 41945
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 16:39:03
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_53 53 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_53  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_53
+Velvet hash value: 53
+Roadmap file size: 664665235
+Total number of contigs: 448
+n50: 41945
+length of longest contig: 190166
+Total bases in contigs: 2325143
+Number of contigs > 1k: 107
+Total bases in contigs > 1k: 2257101
+**********************************************************
+********************************************************
+Assembly id: 23
+Assembly score: 50087
+Velveth timestamp: Aug  1 2017 16:32:13
+Velvetg timestamp: Aug  1 2017 16:39:07
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_55 55 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_55  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_55
+Velvet hash value: 55
+Roadmap file size: 651134786
+Total number of contigs: 361
+n50: 50087
+length of longest contig: 208721
+Total bases in contigs: 2321063
+Number of contigs > 1k: 99
+Total bases in contigs > 1k: 2262523
+**********************************************************
+********************************************************
+Assembly id: 19
+Assembly score: 14613
+Velveth timestamp: Aug  1 2017 16:32:17
+Velvetg timestamp: Aug  1 2017 16:39:08
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_47 47 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_47  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_47
+Velvet hash value: 47
+Roadmap file size: 700249947
+Total number of contigs: 879
+n50: 14613
+length of longest contig: 89883
+Total bases in contigs: 2340839
+Number of contigs > 1k: 242
+Total bases in contigs > 1k: 2232958
+**********************************************************
+********************************************************
+Assembly id: 20
+Assembly score: 24341
+Velveth timestamp: Aug  1 2017 16:32:14
+Velvetg timestamp: Aug  1 2017 16:39:18
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_49 49 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_49  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_49
+Velvet hash value: 49
+Roadmap file size: 686089313
+Total number of contigs: 606
+n50: 24341
+length of longest contig: 138196
+Total bases in contigs: 2329265
+Number of contigs > 1k: 158
+Total bases in contigs > 1k: 2255132
+**********************************************************
+********************************************************
+Assembly id: 16
+Assembly score: 2981
+Velveth timestamp: Aug  1 2017 16:32:17
+Velvetg timestamp: Aug  1 2017 16:39:26
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_41 41 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_41  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_41
+Velvet hash value: 41
+Roadmap file size: 734453970
+Total number of contigs: 2897
+n50: 2981
+length of longest contig: 17837
+Total bases in contigs: 2425684
+Number of contigs > 1k: 673
+Total bases in contigs > 1k: 2006116
+**********************************************************
+********************************************************
+Assembly id: 17
+Assembly score: 5229
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 16:39:35
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_43 43 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_43  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_43
+Velvet hash value: 43
+Roadmap file size: 721844522
+Total number of contigs: 1796
+n50: 5229
+length of longest contig: 30220
+Total bases in contigs: 2378632
+Number of contigs > 1k: 491
+Total bases in contigs > 1k: 2146357
+**********************************************************
+********************************************************
+Assembly id: 15
+Assembly score: 1702
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 16:39:47
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_39 39 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_39  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_39
+Velvet hash value: 39
+Roadmap file size: 747562588
+Total number of contigs: 4479
+n50: 1702
+length of longest contig: 10116
+Total bases in contigs: 2485902
+Number of contigs > 1k: 741
+Total bases in contigs > 1k: 1702804
+**********************************************************
+********************************************************
+Assembly id: 18
+Assembly score: 10370
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 16:39:53
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_45 45 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_45  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_45
+Velvet hash value: 45
+Roadmap file size: 709939126
+Total number of contigs: 1201
+n50: 10370
+length of longest contig: 67144
+Total bases in contigs: 2354012
+Number of contigs > 1k: 328
+Total bases in contigs > 1k: 2209940
+**********************************************************
+********************************************************
+Assembly id: 14
+Assembly score: 989
+Velveth timestamp: Aug  1 2017 16:31:44
+Velvetg timestamp: Aug  1 2017 16:40:19
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_37 37 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_37  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_37
+Velvet hash value: 37
+Roadmap file size: 757466980
+Total number of contigs: 6967
+n50: 989
+length of longest contig: 7607
+Total bases in contigs: 2576031
+Number of contigs > 1k: 720
+Total bases in contigs > 1k: 1279609
+**********************************************************
+********************************************************
+Assembly id: 13
+Assembly score: 455
+Velveth timestamp: Aug  1 2017 16:32:15
+Velvetg timestamp: Aug  1 2017 16:41:09
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_35 35 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_35  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_35
+Velvet hash value: 35
+Roadmap file size: 772200339
+Total number of contigs: 12315
+n50: 455
+length of longest contig: 4727
+Total bases in contigs: 2767971
+Number of contigs > 1k: 423
+Total bases in contigs > 1k: 619706
+**********************************************************
+********************************************************
+Assembly id: 12
+Assembly score: 249
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 16:43:08
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_33 33 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_33  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_33
+Velvet hash value: 33
+Roadmap file size: 786109345
+Total number of contigs: 19025
+n50: 249
+length of longest contig: 3448
+Total bases in contigs: 2990057
+Number of contigs > 1k: 131
+Total bases in contigs > 1k: 179714
+**********************************************************
+********************************************************
+Assembly id: 11
+Assembly score: 147
+Velveth timestamp: Aug  1 2017 16:29:57
+Velvetg timestamp: Aug  1 2017 16:44:03
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_31 31 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_31  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_31
+Velvet hash value: 31
+Roadmap file size: 802841170
+Total number of contigs: 26627
+n50: 147
+length of longest contig: 1903
+Total bases in contigs: 3209793
+Number of contigs > 1k: 44
+Total bases in contigs > 1k: 54208
+**********************************************************
+********************************************************
+Assembly id: 10
+Assembly score: 96
+Velveth timestamp: Aug  1 2017 16:30:15
+Velvetg timestamp: Aug  1 2017 16:44:44
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_29 29 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_29  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_29
+Velvet hash value: 29
+Roadmap file size: 816213975
+Total number of contigs: 36669
+n50: 96
+length of longest contig: 1373
+Total bases in contigs: 3499437
+Number of contigs > 1k: 7
+Total bases in contigs > 1k: 7807
+**********************************************************
+********************************************************
+Assembly id: 8
+Assembly score: 64
+Velveth timestamp: Aug  1 2017 16:27:07
+Velvetg timestamp: Aug  1 2017 16:45:22
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_25 25 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_25  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_25
+Velvet hash value: 25
+Roadmap file size: 851683123
+Total number of contigs: 65883
+n50: 64
+length of longest contig: 772
+Total bases in contigs: 4395803
+Number of contigs > 1k: 0
+Total bases in contigs > 1k: 0
+**********************************************************
+********************************************************
+Assembly id: 9
+Assembly score: 74
+Velveth timestamp: Aug  1 2017 16:31:15
+Velvetg timestamp: Aug  1 2017 16:45:43
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_27 27 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_27  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_27
+Velvet hash value: 27
+Roadmap file size: 831985390
+Total number of contigs: 49204
+n50: 74
+length of longest contig: 922
+Total bases in contigs: 3861291
+Number of contigs > 1k: 0
+Total bases in contigs > 1k: 0
+**********************************************************
+********************************************************
+Assembly id: 7
+Assembly score: 61
+Velveth timestamp: Aug  1 2017 16:29:54
+Velvetg timestamp: Aug  1 2017 16:47:01
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_23 23 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_23  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_23
+Velvet hash value: 23
+Roadmap file size: 868344525
+Total number of contigs: 93005
+n50: 61
+length of longest contig: 537
+Total bases in contigs: 5530927
+Number of contigs > 1k: 0
+Total bases in contigs > 1k: 0
+**********************************************************
+********************************************************
+Assembly id: 6
+Assembly score: 56
+Velveth timestamp: Aug  1 2017 16:24:01
+Velvetg timestamp: Aug  1 2017 16:47:29
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_21 21 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_21  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_21
+Velvet hash value: 21
+Roadmap file size: 891969857
+Total number of contigs: 125345
+n50: 56
+length of longest contig: 338
+Total bases in contigs: 6771226
+Number of contigs > 1k: 0
+Total bases in contigs > 1k: 0
+**********************************************************
+********************************************************
+Assembly id: 5
+Assembly score: 51
+Velveth timestamp: Aug  1 2017 16:18:31
+Velvetg timestamp: Aug  1 2017 16:48:17
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_19 19 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_19  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_19
+Velvet hash value: 19
+Roadmap file size: 909198717
+Total number of contigs: 167782
+n50: 51
+length of longest contig: 230
+Total bases in contigs: 8161723
+Number of contigs > 1k: 0
+Total bases in contigs > 1k: 0
+**********************************************************
+********************************************************
+Assembly id: 4
+Assembly score: 44
+Velveth timestamp: Aug  1 2017 16:14:49
+Velvetg timestamp: Aug  1 2017 16:50:29
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_17 17 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_17  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_17
+Velvet hash value: 17
+Roadmap file size: 958432430
+Total number of contigs: 224237
+n50: 44
+length of longest contig: 206
+Total bases in contigs: 9716996
+Number of contigs > 1k: 0
+Total bases in contigs > 1k: 0
+**********************************************************
+********************************************************
+Assembly id: 3
+Assembly score: 33
+Velveth timestamp: Aug  1 2017 16:11:32
+Velvetg timestamp: Aug  1 2017 17:03:48
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_15 15 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_15  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_15
+Velvet hash value: 15
+Roadmap file size: 1186951222
+Total number of contigs: 205252
+n50: 33
+length of longest contig: 104
+Total bases in contigs: 7044563
+Number of contigs > 1k: 0
+Total bases in contigs > 1k: 0
+**********************************************************
+********************************************************
+Assembly id: 2
+Assembly score: 26
+Velveth timestamp: Aug  1 2017 16:14:44
+Velvetg timestamp: Aug  1 2017 17:51:16
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_13 13 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_13  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_13
+Velvet hash value: 13
+Roadmap file size: 2730468662
+Total number of contigs: 824
+n50: 26
+length of longest contig: 35
+Total bases in contigs: 21573
+Number of contigs > 1k: 0
+Total bases in contigs > 1k: 0
+**********************************************************
+********************************************************
+Assembly id: 1
+Velveth timestamp: Aug  1 2017 16:20:21
+Velvetg timestamp: Aug  1 2017 18:42:31
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_11 11 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_11  -clean yes
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_11
+Velvet hash value: 11
+Roadmap file size: 7680396601
+Total number of contigs: 0
+n50: 0
+length of longest contig: 0
+Total bases in contigs: 0
+Number of contigs > 1k: 0
+Total bases in contigs > 1k: 0
+**********************************************************
+Aug  1 18:42:31 Best assembly by assembly score - assembly id: 28
+Aug  1 18:42:31 Optimisation routine chosen for best assembly: shortPaired
+Aug  1 18:42:31 Looking for the expected coverage
+Aug  1 18:42:31		Expected coverage set to 35
+********************************************************
+Assembly id: 28
+Assembly score: 63818
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 16:38:57
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_65 65 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_65  -clean yes -exp_cov 35
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_65
+Velvet hash value: 65
+Roadmap file size: 579088872
+Total number of contigs: 222
+n50: 63818
+length of longest contig: 208784
+Total bases in contigs: 2318537
+Number of contigs > 1k: 75
+Total bases in contigs > 1k: 2278570
+Paired Library insert stats:
+**********************************************************
+Aug  1 18:42:31 Setting the short insert length
+Aug  1 18:42:31 Setting assembly short insert length(s) to auto
+Aug  1 18:42:31 Beginning coverage cutoff optimisation
+Aug  1 18:42:32		Setting cov_cutoff to 17.304.
+********************************************************
+Assembly id: 28
+Assembly score: 2305447
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 18:43:19
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_65 65 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_65  -clean yes -exp_cov 35 -cov_cutoff 17.304
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_65
+Velvet hash value: 65
+Roadmap file size: 579088872
+Total number of contigs: 90
+n50: 174036
+length of longest contig: 595555
+Total bases in contigs: 2319357
+Number of contigs > 1k: 33
+Total bases in contigs > 1k: 2305447
+Paired Library insert stats:
+Paired-end library 1 has length: 450, sample standard deviation: 90
+Paired-end library 1 has length: 450, sample standard deviation: 90
+**********************************************************
+Aug  1 18:43:19		Setting cov_cutoff to 10.696.
+********************************************************
+Assembly id: 28
+Assembly score: 2305174
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 18:43:49
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_65 65 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_65  -clean yes -exp_cov 35 -cov_cutoff 10.696
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_65
+Velvet hash value: 65
+Roadmap file size: 579088872
+Total number of contigs: 91
+n50: 174136
+length of longest contig: 595555
+Total bases in contigs: 2319404
+Number of contigs > 1k: 34
+Total bases in contigs > 1k: 2305174
+Paired Library insert stats:
+Paired-end library 1 has length: 450, sample standard deviation: 90
+Paired-end library 1 has length: 450, sample standard deviation: 90
+**********************************************************
+		Looking for best cutoff score between 0.000 and 28.000
+		Max cutoff lies between 10.696 & 28.000
+Aug  1 18:43:49		Setting cov_cutoff to 21.390.
+********************************************************
+Assembly id: 28
+Assembly score: 2304875
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 18:44:17
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_65 65 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_65  -clean yes -exp_cov 35 -cov_cutoff 21.389872
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_65
+Velvet hash value: 65
+Roadmap file size: 579088872
+Total number of contigs: 90
+n50: 174036
+length of longest contig: 595555
+Total bases in contigs: 2318772
+Number of contigs > 1k: 33
+Total bases in contigs > 1k: 2304875
+Paired Library insert stats:
+Paired-end library 1 has length: 450, sample standard deviation: 90
+Paired-end library 1 has length: 450, sample standard deviation: 90
+**********************************************************
+		Max cutoff lies between 10.696 & 21.390
+Aug  1 18:44:17		Setting cov_cutoff to 14.781.
+********************************************************
+Assembly id: 28
+Assembly score: 2305546
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 18:44:46
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_65 65 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_65  -clean yes -exp_cov 35 -cov_cutoff 14.781059104
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_65
+Velvet hash value: 65
+Roadmap file size: 579088872
+Total number of contigs: 90
+n50: 174136
+length of longest contig: 595555
+Total bases in contigs: 2319456
+Number of contigs > 1k: 33
+Total bases in contigs > 1k: 2305546
+Paired Library insert stats:
+Paired-end library 1 has length: 450, sample standard deviation: 90
+Paired-end library 1 has length: 450, sample standard deviation: 90
+**********************************************************
+		Max cutoff lies between 10.696 & 17.304
+Aug  1 18:44:46		Setting cov_cutoff to 13.220.
+********************************************************
+Assembly id: 28
+Assembly score: 2305546
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 18:45:14
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_65 65 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_65  -clean yes -exp_cov 35 -cov_cutoff 13.220256
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_65
+Velvet hash value: 65
+Roadmap file size: 579088872
+Total number of contigs: 90
+n50: 174136
+length of longest contig: 595555
+Total bases in contigs: 2319456
+Number of contigs > 1k: 33
+Total bases in contigs > 1k: 2305546
+Paired Library insert stats:
+Paired-end library 1 has length: 450, sample standard deviation: 90
+Paired-end library 1 has length: 450, sample standard deviation: 90
+**********************************************************
+		Max cutoff lies between 10.696 & 14.781
+Aug  1 18:45:14		Setting cov_cutoff to 12.256.
+********************************************************
+Assembly id: 28
+Assembly score: 2305212
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 18:45:44
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_65 65 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_65  -clean yes -exp_cov 35 -cov_cutoff 12.256492577728
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_65
+Velvet hash value: 65
+Roadmap file size: 579088872
+Total number of contigs: 92
+n50: 174136
+length of longest contig: 595555
+Total bases in contigs: 2319584
+Number of contigs > 1k: 34
+Total bases in contigs > 1k: 2305212
+Paired Library insert stats:
+Paired-end library 1 has length: 450, sample standard deviation: 90
+Paired-end library 1 has length: 450, sample standard deviation: 90
+**********************************************************
+		Max cutoff lies between 12.256 & 14.781
+Aug  1 18:45:44		Setting cov_cutoff to 13.817.
+********************************************************
+Assembly id: 28
+Assembly score: 2305546
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 18:46:13
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_65 65 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_65  -clean yes -exp_cov 35 -cov_cutoff 13.8166746909641
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_65
+Velvet hash value: 65
+Roadmap file size: 579088872
+Total number of contigs: 90
+n50: 174136
+length of longest contig: 595555
+Total bases in contigs: 2319456
+Number of contigs > 1k: 33
+Total bases in contigs > 1k: 2305546
+Paired Library insert stats:
+Paired-end library 1 has length: 450, sample standard deviation: 90
+Paired-end library 1 has length: 450, sample standard deviation: 90
+**********************************************************
+		Max cutoff lies between 12.256 & 13.817
+Aug  1 18:46:13		Setting cov_cutoff to 12.852.
+********************************************************
+Assembly id: 28
+Assembly score: 2305212
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 18:46:41
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_65 65 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_65  -clean yes -exp_cov 35 -cov_cutoff 12.8524821449842
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_65
+Velvet hash value: 65
+Roadmap file size: 579088872
+Total number of contigs: 92
+n50: 174136
+length of longest contig: 595555
+Total bases in contigs: 2319584
+Number of contigs > 1k: 34
+Total bases in contigs > 1k: 2305212
+Paired Library insert stats:
+Paired-end library 1 has length: 450, sample standard deviation: 90
+Paired-end library 1 has length: 450, sample standard deviation: 90
+**********************************************************
+		Max cutoff lies between 12.852 & 13.817
+Aug  1 18:46:41		Setting cov_cutoff to 13.448.
+********************************************************
+Assembly id: 28
+Assembly score: 2305546
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 18:47:10
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_65 65 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_65  -clean yes -exp_cov 35 -cov_cutoff 13.4483531383998
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_65
+Velvet hash value: 65
+Roadmap file size: 579088872
+Total number of contigs: 90
+n50: 174136
+length of longest contig: 595555
+Total bases in contigs: 2319456
+Number of contigs > 1k: 33
+Total bases in contigs > 1k: 2305546
+Paired Library insert stats:
+Paired-end library 1 has length: 450, sample standard deviation: 90
+Paired-end library 1 has length: 450, sample standard deviation: 90
+**********************************************************
+		Optimum value of cutoff is 13.82
+		Took 8 iterations
+Aug  1 18:47:10
+
+
+Final optimised assembly details:
+********************************************************
+Assembly id: 28
+Assembly score: 2305546
+Velveth timestamp: Aug  1 2017 16:32:16
+Velvetg timestamp: Aug  1 2017 18:47:10
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velveth parameter string: auto_data_65 65 -fastq -separate -shortPaired w17_R1_val_1.fq w17_R2_val_2.fq
+Velvetg parameter string: auto_data_65  -clean yes -exp_cov 35 -cov_cutoff 13.4483531383998
+Assembly directory: /home/guest40/WEISSELLAS/W17/VelOpt/auto_data_65
+Velvet hash value: 65
+Roadmap file size: 579088872
+Total number of contigs: 90
+n50: 174136
+length of longest contig: 595555
+Total bases in contigs: 2319456
+Number of contigs > 1k: 33
+Total bases in contigs > 1k: 2305546
+Paired Library insert stats:
+Paired-end library 1 has length: 450, sample standard deviation: 90
+Paired-end library 1 has length: 450, sample standard deviation: 90
+**********************************************************
+
+
+Assembly output files are in the following directory:
+/home/guest40/WEISSELLAS/W17/VelOpt/auto_data_65
