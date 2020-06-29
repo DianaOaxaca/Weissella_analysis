@@ -5,3 +5,4 @@ Hernández-Oaxaca, López-Sánchez, Lozano-Aguirre, Wacher-Rodarte, Segovia-Forc
 
 This work was carried out at the Institute of Biotechnology of the National Autonomous University of Mexico, in the Enzymatic Technology laboratory led by Dr. Agustín López Munguía Canales.
 
+![](Pozol.jpg)
