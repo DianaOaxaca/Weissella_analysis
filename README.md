@@ -51,7 +51,7 @@ The Analysis were performed following this workflow, which can be found in the *
 
 ####                                                   <center>**Pozol**</center>
 
-<img src="maiz.png" width="600" height="550" align="right"/>
+<img src="maiz.png" width="500" height="460" align="right"/>
 
 **Nijmé**
 
@@ -69,4 +69,4 @@ es nuestro corazón que germina y crece,
 es el pozol, es la tortilla,
 es el mundo, es la vida.
 
-**JUAN GREGORIO REGINO** (poeta mazateco)<img src="Pozol.jpg" style="zoom:10%;" width="330" height="280"/>
+**JUAN GREGORIO REGINO** (poeta mazateco)<img src="Pozol.jpg" style="zoom:10%;" width="300" height="250"/>
