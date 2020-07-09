@@ -53,7 +53,7 @@ The Analysis were performed following this workflow, which can be found in the *
 
 <img src="Pozol.jpg" style="zoom:10%;" width="500" height="450" align="center"/>
 <img src="maiz.png" width="600" height="500" align="right"/>
-<center><i><b>Nijmé</b></i></center>
+<<center><i><b>Nijmé</b></i></center>
 
 <center>Nga tjo ts’ien nijmé,</center>
 
@@ -77,5 +77,4 @@ The Analysis were performed following this workflow, which can be found in the *
 
 <center>es el mundo, es la vida.</center>
 
-<center>JUAN GREGORIO REGINO (poeta mazateco)</center>
-/>
+<center>JUAN GREGORIO REGINO (poeta mazateco)</center>/>
