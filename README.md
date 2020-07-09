@@ -69,4 +69,4 @@ es nuestro corazón que germina y crece,
 es el pozol, es la tortilla,
 es el mundo, es la vida.
 
-**JUAN GREGORIO REGINO** (poeta mazateco)<img src="Pozol.jpg" style="zoom:10%;" width="380" height="330" align="center"/>
+**JUAN GREGORIO REGINO** (poeta mazateco)<img src="Pozol.jpg" style="zoom:10%;" width="350" height="300" align="center"/>
