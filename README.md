@@ -10,7 +10,7 @@ All analysis were done on the "chichen" server of the UNAM Center for Genomic Sc
 
 ### Workflow
 
-The Analysis were performed following this workflow, which can be found in the **analysis** directory and its results in the **out** directory of this repository.
+The analysis were performed following this workflow, which can be found in the **analysis** directory and its results in the **out** directory of this repository.
 
 1. Taxonomy_16S
 
