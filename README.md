@@ -51,8 +51,8 @@ The Analysis were performed following this workflow, which can be found in the *
 
 ####                                                   *Pozol*
 
-<img src="Pozol.jpg" style="zoom:10%;" width="400" height="250"/>
-```HTML</>
+<img src="Pozol.jpg" style="zoom:10%;" width="500" height="400"/>
+```html
 <center><i><b>Nijmé</b></i></center>
 <center>Nga tjo ts’ien nijmé,</center>
 <center>xikoni tsa kjifí nixtjíná,</center>
