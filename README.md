@@ -51,7 +51,7 @@ The Analysis were performed following this workflow, which can be found in the *
 
 ####                                                   <center>**Pozol**</center>
 
-<img src="maiz.png" width="630" height="580" align="right"/>
+<img src="maiz.png" width="600" height="550" align="right"/>
 
 **Nijmé**
 
