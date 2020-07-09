@@ -14,13 +14,13 @@ The Analysis were performed following this workflow, which can be found in the *
 
 1. Taxonomy_16S
 
-   ```
+   ```bash
    
    ```
 
 2. Genome assemblies
 
-   ```
+   ```bash
    quality_and_assemblies.sh
    assembly_refinement.sh
    compare_assemblies_and_coverage_estimation.sh
@@ -28,7 +28,7 @@ The Analysis were performed following this workflow, which can be found in the *
 
 3. Weissella taxonomic assignment
 
-   ```
+   ```bash
    housekeeping_genes_phylogeny.sh
    ribosomal_proteins_phylogeny.sh
    ANI.sh
@@ -36,13 +36,13 @@ The Analysis were performed following this workflow, which can be found in the *
 
 4. CAZy anotate
 
-   ```
+   ```bash
    cazy_analysis.sh
    ```
 
 5. Plots
 
-   ```
+   ```bash
    Boxplots_OD_and_Enzymatic_activity.R
    CAZy_heatmap.R
    ```
@@ -51,8 +51,8 @@ The Analysis were performed following this workflow, which can be found in the *
 
 ####                                                   *Pozol*
 
-<img src="Pozol.jpg" style="zoom:10%;" />
-
+<img src="Pozol.jpg" style="zoom:10%;" width="300" height="150"/>
+```HTML
 <center><i><b>Nijmé</b></i></center>
 <center>Nga tjo ts’ien nijmé,</center>
 <center>xikoni tsa kjifí nixtjíná,</center>
@@ -66,5 +66,5 @@ The Analysis were performed following this workflow, which can be found in the *
 <center>es el pozol, es la tortilla,</center>
 <center>es el mundo, es la vida.</center>
 <center>JUAN GREGORIO REGINO (poeta mazateco)</center>
-
+````
 ![](maiz.png)
