@@ -51,7 +51,7 @@ The Analysis were performed following this workflow, which can be found in the *
 
 ####                                                   *Pozol*
 
-<img src="Pozol.jpg" style="zoom:10%;" width="500" height="400"/>
+<img src="Pozol.jpg" style="zoom:10%;" width="600" height="550" align="center"/>
 ```html
 <center><i><b>Nijmé</b></i></center>
 <center>Nga tjo ts’ien nijmé,</center>
@@ -66,6 +66,6 @@ The Analysis were performed following this workflow, which can be found in the *
 <center>es el pozol, es la tortilla,</center>
 <center>es el mundo, es la vida.</center>
 <center>JUAN GREGORIO REGINO (poeta mazateco)</center>
-````
+```
 
 ![](maiz.png)
