@@ -51,11 +51,10 @@ The Analysis were performed following this workflow, which can be found in the *
 
 ####                                                   **Pozol**
 
-<img src="Pozol.jpg" style="zoom:10%;" width="500" height="450" align="center"/>
 <img src="maiz.png" width="600" height="500" align="right"/>
 
 **Nijmé**
-Nga tjo ts’ien nijmé,
+Nga tjo ts’ien nijmé,\n
 xikoni tsa kjifí nixtjíná,
 inimána xi titjó, xi kjamaxcha,
 kuí xi nda, kuí xi nño,
@@ -67,3 +66,4 @@ es nuestro corazón que germina y crece,
 es el pozol, es la tortilla,
 es el mundo, es la vida.
 **JUAN GREGORIO REGINO** (poeta mazateco)
+<img src="Pozol.jpg" style="zoom:10%;" width="400" height="350" align="center"/>
