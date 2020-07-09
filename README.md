@@ -54,16 +54,19 @@ The Analysis were performed following this workflow, which can be found in the *
 <img src="maiz.png" width="600" height="500" align="right"/>
 
 **Nijmé**
-Nga tjo ts’ien nijmé,\n
+
+Nga tjo ts’ien nijmé,
 xikoni tsa kjifí nixtjíná,
 inimána xi titjó, xi kjamaxcha,
 kuí xi nda, kuí xi nño,
 kuí xi ngasandie, kuí xi inimana.
+
 **El maíz**
+
 Cuando brota el embrión del maíz,
 siento que se prolongan nuestros días,
 es nuestro corazón que germina y crece,
 es el pozol, es la tortilla,
 es el mundo, es la vida.
-**JUAN GREGORIO REGINO** (poeta mazateco)
-<img src="Pozol.jpg" style="zoom:10%;" width="400" height="350" align="center"/>
+
+**JUAN GREGORIO REGINO** (poeta mazateco)<img src="Pozol.jpg" style="zoom:10%;" width="380" height="330" align="center"/>
