@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+#DianaOaxaca
 #1. Compare assemblies with QUAST
 quast.py 
 
@@ -23,7 +24,7 @@ expr 6185922 * 0.9729
 	# Result =  6018283.514
 
 expr (6018283.514*75) / 2310516 
-	# Result = 195.35 X
+	# Result = 195.35 * 2 = 390.70X
 
 #Wcp3a mapping results:
 	#7370348 (100.00%) were paired
@@ -32,4 +33,4 @@ expr (6018283.514*75) / 2310516
 expr 7370348 * 0.9728  
         # Result = 7169874.534
 expr (7169874.534 * 75) / 2226747 
-        # Result = 241.49 X
+        # Result = 241.49 * 2 = 482.98X

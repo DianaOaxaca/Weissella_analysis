@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-#Hernández-Oaxaca, Diana
+#DianaOaxaca
 #Workflow to cazy analysis
 #1. Download databases
 
@@ -33,15 +33,4 @@ sort all.only.txt |  uniq   > all.uniq
 
 for s in $(cat all.uniq); do grep -c -w $s [SAMPLE_NAME].only.txt >> [SAMPLE_NAME].full_count ; done
 
-#6. R Heatmap
-
-library("ggplot2", lib.loc="/Library/Frameworks/R.framework/Versions/3.4/Resources/library")
-library("Heatplus", lib.loc="/Library/Frameworks/R.framework/Versions/3.4/Resources/library")
-library("gplots", lib.loc="/Library/Frameworks/R.framework/Versions/3.4/Resources/library")
-library("RColorBrewer", lib.loc="/Library/Frameworks/R.framework/Versions/3.4/Resources/library")
-setwd('/Users/REAnAr/Desktop/CAZy_SRvsLR/')
-cazymes <- read.csv('all.uniq_all.count.csv', header = TRUE, row.names = 1)
-my_pallet <- colorRampPalette(c('white', 'blue'))(n = 299)
-col_breaks = c(seq(-0,1.09, length=100), seq(1.1,2.09,length=100), seq(2.1,4,length=100))
-heatmap.2(as.matrix(cazymes), col = my_pallet, density.info = 'none', trace = 'none', dendrogram = 'none', Rowv = "NA", cexCol = 0.7, cexRow = 0.7, \
-margins = c(2,16), breaks = col_breaks, tracecol = "row", offsetRow=-0.3, offsetCol=-0.3, key = FALSE)
+#6. Local script to build the  counts matrix

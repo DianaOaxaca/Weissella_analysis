@@ -1,3 +1,4 @@
+#DianaOaxaca
 #!/usr/bin/bash
 
 #1. Merge the best assemblies with metassemble

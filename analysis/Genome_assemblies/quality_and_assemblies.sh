@@ -1,6 +1,7 @@
 #!/usr/bin/bash
+#DianaOaxaca
 
-#1. Quality control and cleaning of reads
+#1. Quality control and reads cleaning
 
 fastqc w17_R1.fastq w17_R2.fastq
 fastqc wp_R1.fastq wp_R2.fastq
