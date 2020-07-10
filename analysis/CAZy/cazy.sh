@@ -3,10 +3,7 @@
 #Workflow to cazy analysis
 #1. Download databases
 
-wget   http://csbl.bmb.uga.edu/dbCAN/download/CAZyDB.07202017.fa
-wget   http://csbl.bmb.uga.edu/dbCAN/download/FamInfo.txt
-wget   http://csbl.bmb.uga.edu/dbCAN/download/dbCAN-fam-HMMs.txt
-wget   http://csbl.bmb.uga.edu/dbCAN/download/hmmscan-parser.sh 
+wget   http://csbl.bmb.uga.edu/dbCAN/download/CAZyDB.07202017.fa (is updated frequently)
 
 #2. Format db
 
