@@ -1,5 +1,6 @@
 #!/usr/bin/bash
-#Workflow to 16S taxonomy analysis by Rafael Lopez Sanchez. Pipeline used
+#Workflow to 16S taxonomy analysis by Rafael Lopez Sanchez. 
+#Pipeline of Taxonomic annotation was performed using Parallel-metapipeline v2.4.1 (Su et al., 2014) against the Metaxa2 database v2.1.1 as described in https://github.com/Ales-ibt/Metagenomic-benchmark by Dr. Grisel Alejandra Escobar Zepeda.
 
 #1. pipeline of Parallel-Meta v.2.4.1 
 parallel-meta -b B -r flash_out.extendedFrags.fasta -d X -n 4
