@@ -1,3 +1,6 @@
+#!/usr/bin/bash
+#Workflow to 16S OTUs analysis by Rafael Lopez Sanchez. 
+
 #1. Reconstruction of the original amplicon of the regions V3-V4 (~450bp).
 $ flash -r 300 -f 450 -s 30 -t 2 -o flash_out *R1.fastq *R2.fastq
 
