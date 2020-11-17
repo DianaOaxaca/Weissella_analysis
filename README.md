@@ -15,7 +15,8 @@ The analysis were performed following this workflow, which can be found in the *
 1. Taxonomy_16S
 
    ```bash
-   
+   OTU.sh
+   Taxonomy_16S.sh
    ```
 
 2. Genome assemblies
